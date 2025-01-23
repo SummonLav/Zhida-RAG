@@ -28,3 +28,6 @@ Limitations:
   <img width="600" alt="limitation3-ChatGPT-正确" src="https://github.com/user-attachments/assets/decd87d7-2101-4196-9cde-f23c1205581f" />
 </div>
 
+</br>
+
+(Fixing the quirks as we speak...)

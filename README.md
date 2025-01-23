@@ -7,16 +7,16 @@ Both the model’s strengths and its limitations are highlighted and discussed i
 Comparison:
 1. Question 1 appearing in Zhida Tech’s documents - RAG excels with its charmingly concise response
 <div style="display: flex; justify-content: space-around;">
-  <img width="800" alt="文档标准问题1-RAG" src="https://github.com/user-attachments/assets/29b96f69-58df-4647-8459-acdf354658d9" />
-  <img width="800" alt="文档标准问题1-ChatGPT" src="https://github.com/user-attachments/assets/1e9b1c37-5cf3-4867-8776-3723dcc8e2ab" />
+  <img width="600" alt="文档标准问题1-RAG" src="https://github.com/user-attachments/assets/29b96f69-58df-4647-8459-acdf354658d9" />
+  <img width="600" alt="文档标准问题1-ChatGPT" src="https://github.com/user-attachments/assets/1e9b1c37-5cf3-4867-8776-3723dcc8e2ab" />
 </div>
 
 </br>
 
 2. Question 2 appearing in Zhida Tech’s documents - RAG excels and the answer perfectly aligns with the document paragraphs
 <div style="display: flex; justify-content: space-around;">
-  <img width="800" alt="文档标准问题2-RAG" src="https://github.com/user-attachments/assets/8ccd3bf1-bc92-430c-b9e2-6162aff3f191" />
-  <img width="800" alt="文档标准问题2-ChatGPT" src="https://github.com/user-attachments/assets/11d95e11-0a5b-4f4c-ae52-d7db6cfb8224" />
+  <img width="600" alt="文档标准问题2-RAG" src="https://github.com/user-attachments/assets/8ccd3bf1-bc92-430c-b9e2-6162aff3f191" />
+  <img width="600" alt="文档标准问题2-ChatGPT" src="https://github.com/user-attachments/assets/11d95e11-0a5b-4f4c-ae52-d7db6cfb8224" />
 </div>
 
 </br>
@@ -24,7 +24,7 @@ Comparison:
 Limitations:
 1. Hallucination
 <div style="display: flex; justify-content: space-around;">
-  <img width="800" alt="limitation2-无memory" src="https://github.com/user-attachments/assets/51881be7-ad68-42e4-99b0-144ac6c20bc8" />
-  <img width="800" alt="limitation3-ChatGPT-正确" src="https://github.com/user-attachments/assets/decd87d7-2101-4196-9cde-f23c1205581f" />
+  <img width="600" alt="limitation2-无memory" src="https://github.com/user-attachments/assets/51881be7-ad68-42e4-99b0-144ac6c20bc8" />
+  <img width="600" alt="limitation3-ChatGPT-正确" src="https://github.com/user-attachments/assets/decd87d7-2101-4196-9cde-f23c1205581f" />
 </div>
 

@@ -30,4 +30,4 @@ Limitations:
 
 </br>
 
-(Fixing the quirks as we speak...)
+(Fixing the quirks...)
